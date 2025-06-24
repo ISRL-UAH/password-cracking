@@ -1,0 +1,24 @@
+[submodule "crunch"]
+	path = crunch
+	url = https://github.com/crunchsec/crunch.git
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "hashcat"]
+	path = hashcat
+	url = https://github.com/hashcat/hashcat.git
+[submodule "cupp"]
+	path = cupp
+	url = https://github.com/Mebus/cupp.git
+[submodule "john"]
+	path = john
+	url = https://github.com/openwall/john
+[submodule "hashcat-utils"]
+	path = hashcat-utils
+	url = https://github.com/hashcat/hashcat-utils
+[submodule "file2hashcat"]
+	path = file2hashcat
+	url = https://github.com/hashstation/file2hashcat
+[submodule "maskprocessor"]
+	path = maskprocessor
+	url = https://github.com/hashcat/maskprocessor
