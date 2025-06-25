@@ -22,3 +22,9 @@
 [submodule "maskprocessor"]
 	path = maskprocessor
 	url = https://github.com/hashcat/maskprocessor
+[submodule "hashcat-rules/01_ortrta"]
+	path = hashcat-rules/01_ortrta
+	url = https://github.com/NotSoSecure/password_cracking_rules
+[submodule "hashcat-rules/02_ortrts"]
+	path = hashcat-rules/02_ortrts
+	url = https://github.com/stealthsploit/OneRuleToRuleThemStill
